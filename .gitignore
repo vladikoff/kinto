@@ -10,7 +10,7 @@ loadtests/.env.install
 docs/_build/
 .cache/
 *.un~
-config/*.ini
+
 version.json
 dist
 kinto/plugins/admin/build
